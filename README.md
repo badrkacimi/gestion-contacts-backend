@@ -1,5 +1,6 @@
 # Gestion-Contacs-BackEnd
-Spring boot,Data,Hibernate,RestAPI,MySql
+Spring Boot v1.5.10,Spring Data,Hibernate,RestAPI,MySql
+Micro Servicebuild
 
 # Data .. Importing Data file >> Soon
 
