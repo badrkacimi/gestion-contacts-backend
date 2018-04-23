@@ -17,5 +17,4 @@ Micro Servicebuild
 # Screenshots ( development phase )
 
 * FrontEnd
-[Image](/src/main/resources/screen.png
-)
+[Image](/screen.png)
