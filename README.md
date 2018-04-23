@@ -2,9 +2,6 @@
 Spring Boot v1.5.10,Spring Data,Hibernate,RestAPI,MySql
 Micro Servicebuild
 
-# Data .. Importing Data file >> Soon
-
-
 # How to run
 
 -Clone the "master" branch of this repo
@@ -16,3 +13,9 @@ Micro Servicebuild
 -Once successfully built, you can run the service by running: mvnw.cmd spring-boot:run
 
 -The API is available on port 8080
+
+# Screenshots ( development phase )
+
+* FrontEnd
+[Image](/src/main/resources/screen.png
+)
