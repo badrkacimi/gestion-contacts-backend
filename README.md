@@ -17,7 +17,7 @@
 
 - The API is available on port 8080
 
-# Screenshots ( development phase )
+# Screenshots (development phase)
 
-* FrontEnd
+* Front End
 ![Image](/screen.png)
