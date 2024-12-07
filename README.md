@@ -1,6 +1,9 @@
 # Gestion des Contacts: Backend
-Spring Boot v1.5.10,Spring Data,Hibernate,RestAPI,MySql
-Micro Servicebuild
+- Spring Boot v1.5.10
+- Spring Data,Hibernate
+- RestAPI
+- MySql
+- Micro Service
 
 # How to run
 
